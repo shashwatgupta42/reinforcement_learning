@@ -30,7 +30,7 @@ In this project, I use the Deep Q Learning algorithm to teach Q agents to play t
    - Provides multiple activation functions.
    - Performs forward and backward pass
    - Performs update step on the original Q-network using ADAM and updates the target network using soft update.
-   - Generates the targets
+   - Generates the training examples
 
 - saved_param - folder containing the trained and untrained Q agents for hard and easy pong.
   
